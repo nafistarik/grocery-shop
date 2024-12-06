@@ -116,12 +116,12 @@ export default function Blog() {
               taste. Each coconut is handpicked and carefully prepared, offering
               you the freshest product possible. Rich in healthy fats,
               electrolytes, and essential nutrients, coconuts provide both
-              hydration and nourishment. Whether you're using the water, flesh,
+              hydration and nourishment. Whether youre using the water, flesh,
               or milk, our coconuts bring versatility to your kitchen while
               supporting healthy living.
             </p>
             <p className="mt-4">
-              Perfect for smoothies, desserts, curries, and more — let the
+              Perfect for smoothies, desserts, curries, and more - let the
               natural sweetness of the coconut elevate your recipes. Enjoy the
               tropical goodness in its purest form, directly from nature.
             </p>

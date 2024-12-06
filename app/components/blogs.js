@@ -26,7 +26,7 @@ export default function Blogs() {
          May 23, 2024
         </p>
         <h2 className="text-xl font-bold text-gray-900 mt-2">
-         Exploring Seasonal Delights: A Guide to What's Fresh Right Now
+         Exploring Seasonal Delights: A Guide to Whats Fresh Right Now
         </h2>
         <button className="text-orange-500 mt-4 inline-block" >
          Read More
