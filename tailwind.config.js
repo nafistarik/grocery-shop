@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'offer': "url('/assets/offer.png')",
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
